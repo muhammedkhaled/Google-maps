@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.adapters;
+package com.muhammadKhaled.googlemaps.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.codingwithmitch.googlemaps2018.R;
-import com.codingwithmitch.googlemaps2018.models.Chatroom;
+import com.muhammadKhaled.googlemaps.R;
+import com.muhammadKhaled.googlemaps.models.Chatroom;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.adapters;
+package com.muhammadKhaled.googlemaps.adapters;
 
 import android.content.Context;
 
@@ -11,9 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.codingwithmitch.googlemaps2018.R;
-import com.codingwithmitch.googlemaps2018.models.ChatMessage;
-import com.codingwithmitch.googlemaps2018.models.User;
+import com.muhammadKhaled.googlemaps.R;
+import com.muhammadKhaled.googlemaps.models.ChatMessage;
+import com.muhammadKhaled.googlemaps.models.User;
 import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.ArrayList;

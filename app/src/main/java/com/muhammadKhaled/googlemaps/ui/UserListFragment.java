@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.ui;
+package com.muhammadKhaled.googlemaps.ui;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,9 +12,9 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.codingwithmitch.googlemaps2018.R;
-import com.codingwithmitch.googlemaps2018.adapters.UserRecyclerAdapter;
-import com.codingwithmitch.googlemaps2018.models.User;
+import com.muhammadKhaled.googlemaps.R;
+import com.muhammadKhaled.googlemaps.adapters.UserRecyclerAdapter;
+import com.muhammadKhaled.googlemaps.models.User;
 
 import java.util.ArrayList;
 

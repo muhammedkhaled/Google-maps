@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.ui;
+package com.muhammadKhaled.googlemaps.ui;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -11,9 +11,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
-import com.codingwithmitch.googlemaps2018.R;
-import com.codingwithmitch.googlemaps2018.UserClient;
-import com.codingwithmitch.googlemaps2018.models.User;
+import com.muhammadKhaled.googlemaps.R;
+import com.muhammadKhaled.googlemaps.UserClient;
+import com.muhammadKhaled.googlemaps.models.User;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
 

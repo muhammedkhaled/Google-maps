@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.adapters;
+package com.muhammadKhaled.googlemaps.adapters;
 
 import android.content.Context;
 
@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
-import com.codingwithmitch.googlemaps2018.R;
+import com.muhammadKhaled.googlemaps.R;
 
 
 import java.util.ArrayList;

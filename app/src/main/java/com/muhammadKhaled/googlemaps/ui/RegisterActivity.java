@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.ui;
+package com.muhammadKhaled.googlemaps.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,8 +14,8 @@ import androidx.annotation.Nullable;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.codingwithmitch.googlemaps2018.R;
-import com.codingwithmitch.googlemaps2018.models.User;
+import com.muhammadKhaled.googlemaps.R;
+import com.muhammadKhaled.googlemaps.models.User;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
@@ -27,7 +27,7 @@ import com.google.android.material.snackbar.Snackbar;
 
 
 import static android.text.TextUtils.isEmpty;
-import static com.codingwithmitch.googlemaps2018.util.Check.doStringsMatch;
+import static com.muhammadKhaled.googlemaps.util.Check.doStringsMatch;
 
 
 public class RegisterActivity extends AppCompatActivity implements

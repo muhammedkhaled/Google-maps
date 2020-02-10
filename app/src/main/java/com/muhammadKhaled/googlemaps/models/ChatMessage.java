@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.models;
+package com.muhammadKhaled.googlemaps.models;
 
 import com.google.firebase.firestore.ServerTimestamp;
 

@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.ui;
+package com.muhammadKhaled.googlemaps.ui;
 
 public interface IProfile {
 

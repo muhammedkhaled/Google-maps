@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.ui;
+package com.muhammadKhaled.googlemaps.ui;
 
 
 import android.content.Context;
@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
-import com.codingwithmitch.googlemaps2018.R;
-import com.codingwithmitch.googlemaps2018.adapters.ImageListRecyclerAdapter;
+import com.muhammadKhaled.googlemaps.R;
+import com.muhammadKhaled.googlemaps.adapters.ImageListRecyclerAdapter;
 
 import java.util.ArrayList;
 

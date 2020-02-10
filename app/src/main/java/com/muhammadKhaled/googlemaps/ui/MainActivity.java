@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018.ui;
+package com.muhammadKhaled.googlemaps.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -25,9 +25,9 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.codingwithmitch.googlemaps2018.R;
-import com.codingwithmitch.googlemaps2018.adapters.ChatroomRecyclerAdapter;
-import com.codingwithmitch.googlemaps2018.models.Chatroom;
+import com.muhammadKhaled.googlemaps.R;
+import com.muhammadKhaled.googlemaps.adapters.ChatroomRecyclerAdapter;
+import com.muhammadKhaled.googlemaps.models.Chatroom;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -50,9 +50,9 @@ import java.util.Set;
 
 import javax.annotation.Nullable;
 
-import static com.codingwithmitch.googlemaps2018.Constants.ERROR_DIALOG_REQUEST;
-import static com.codingwithmitch.googlemaps2018.Constants.PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION;
-import static com.codingwithmitch.googlemaps2018.Constants.PERMISSIONS_REQUEST_ENABLE_GPS;
+import static com.muhammadKhaled.googlemaps.Constants.ERROR_DIALOG_REQUEST;
+import static com.muhammadKhaled.googlemaps.Constants.PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION;
+import static com.muhammadKhaled.googlemaps.Constants.PERMISSIONS_REQUEST_ENABLE_GPS;
 
 
 public class MainActivity extends AppCompatActivity implements

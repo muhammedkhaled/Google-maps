@@ -1,4 +1,4 @@
-package com.codingwithmitch.googlemaps2018;
+package com.muhammadKhaled.googlemaps;
 
 public class Constants {
 
